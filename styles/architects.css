@@ -268,7 +268,7 @@ footer p {
     .navbar, .nav-links, .teams {
         flex-direction: column;
     }
-    .team-image-container,.fact-container,.sponsor-company.features {
+    .team-image-container,.fact-container,.sponsor-company .features {
         grid-template-columns: repeat(1,1fr);
     }
 
